@@ -221,11 +221,11 @@ p {
 }
 
 #product {
-	background: url(../images/background-pattern.png) no-repeat no-repeat;
-	width: 100%;
-	min-height: 100vh;
-	background-size: contain;
-	background-position: top;
+    background: url(../images/background-pattern.png);
+    width: 100%;
+    min-height: 100vh;
+    background-size: contain;
+    background-position: top;
 }
 
 #project {
